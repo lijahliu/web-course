@@ -1,0 +1,27 @@
+*{
+    font-family: Helvetica;
+}h1 {
+    font-weight: 700;
+    font-style: normal;
+}
+p {
+    font-size: 25px;
+}
+.bottom {
+    padding-top: 170px;
+    color: blue;
+}
+.banner {
+    font-size: 25px;
+    background-color: purple;
+    color: white;
+    padding: 16px
+}
+.card {
+    padding: 20px;
+    border: 20px solid gray;
+    width: 33%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
